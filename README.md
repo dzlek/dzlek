@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./img/bg.png" width="845" height="300" alt="welcome image" >
+<img src="./img/background.png" width="845" height="300" alt="welcome image" >
 
 ### Hi there 👋, I'm Dee2021
 
