@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## About myself.
 - 💻 I’m interested in Web Development especially Front-end
-- 💞️ I am result-oriented and opened to new knowledge
-- 🎉 I'm ready to do my best to become a Frontend Developer
+- 🚀 I am result-oriented and opened to new knowledge
+- 🔋 I'm ready to do my best to become a Frontend Developer
   
 ### Connect with me:
-- __Phone:__ +375 ** *** ** **
+- __Phone:__ +375 ** 68* ** **
 - __E-mail:__ [686eight@gmail.com](686eight@gmail.com)
 - __LinkedIn:__ [Dee2021](www.linkedin.com/)
 - __Discord:__ [Dee](https://discordapp.com/users/1170446901552885810)
@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 ### My Projects
  Project title            |   Deploy link
 --------------------------|:-----------------------:
+Coffee-House              |   [Coffee-House](https://rolling-scopes-school.github.io/dee2021-JSFE2023Q4/coffee-house/)
 Hangman                   |   [Hangman](https://rolling-scopes-school.github.io/dee2021-JSFE2023Q4/Hangman/)
