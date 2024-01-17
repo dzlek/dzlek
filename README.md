@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ### My Projects
  Project title            |   Deploy link
 --------------------------|:-----------------------:
-Hangman                   |   [Hangman]([https://rolling-scopes-school.github.io/dee2021-JSFE2023Q4/Hangman/](https://rolling-scopes-school.github.io/dee2021-JSFE2023Q4/Hangman/))
+Hangman                   |   [Hangman](https://rolling-scopes-school.github.io/dee2021-JSFE2023Q4/Hangman/)
