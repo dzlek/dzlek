@@ -35,5 +35,7 @@ Here are some ideas to get you started:
 ### My Projects
  Project title            |   Deploy link
 --------------------------|:-----------------------:
+Nonogram                  |   [Nonogram](https://rolling-scopes-school.github.io/dee2021-JSFE2023Q4/nonograms/)
+Shelter-pet               |   [Shelter-pet](https://dee2021.github.io/shelter-dom/)
 Coffee-House              |   [Coffee-House](https://rolling-scopes-school.github.io/dee2021-JSFE2023Q4/coffee-house/)
 Hangman                   |   [Hangman](https://rolling-scopes-school.github.io/dee2021-JSFE2023Q4/Hangman/)
