@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img src="./img/background.png" width="845" height="300" alt="welcome image" >
 
-### Hi there 👋, I'm Dee2021
+### Hi there 👋, I'm Dee
 
 ## About myself.
 - 💻 I’m interested in Web Development especially Front-end
