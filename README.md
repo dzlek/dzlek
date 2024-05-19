@@ -1,5 +1,5 @@
 <!--
-**Dee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img src="./img/background.png" width="845" height="300" alt="welcome image" >
 
-### Hi there 👋, I'm Dee
+### Hi there 👋, I'm D.
 
 ## About myself.
 - 💻 I’m interested in Web Development especially Front-end
