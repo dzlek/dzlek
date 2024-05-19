@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 - __Phone:__ +375 ** 68* ** **
 - __E-mail:__ [686eight@gmail.com](686eight@gmail.com)
-- __LinkedIn:__ [Dee2021](www.linkedin.com/)
+- __LinkedIn:__ [Dee](www.linkedin.com/)
 - __Discord:__ [Dee](https://discordapp.com/users/1170446901552885810)
 - __Telegram:__ [Dee](https://t.me/six86eight)
 
