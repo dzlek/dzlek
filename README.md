@@ -39,3 +39,5 @@ Nonogram                  |   [Nonogram](https://rolling-scopes-school.github.io
 Shelter-pet               |   [Shelter-pet](https://dzlek.github.io/shelter-dom/)
 Coffee-House              |   [Coffee-House](https://rolling-scopes-school.github.io/dee2021-JSFE2023Q4/coffee-house/)
 Hangman                   |   [Hangman](https://rolling-scopes-school.github.io/dee2021-JSFE2023Q4/Hangman/)
+Counter                   |   [Counter](https://dzlek.github.io/counter/)
+
