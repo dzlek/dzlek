@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - __Telegram:__ [Dee](https://t.me/six86eight)
 
 ### Languages and Tools:
-<img alt="HTML5 icon" width="30px" src="./img/icons/html.svg">   <img alt="CSS3 icon" width="30px" src="./img/icons/css.svg">   <img alt="SASS icon" width="30px" src="./img/icons/sass.png">   <img alt="JS icon" width="30px" src="./img/icons/js.svg">   <img alt="BEM icon" width="30px" src="./img/icons/bem.svg">   <img alt="Figma icon" width="30px" src="./img/icons/figma.svg">
+<img alt="HTML5 icon" width="30px" src="./img/icons/html.svg">   <img alt="CSS3 icon" width="30px" src="./img/icons/css.svg">   <img alt="SASS icon" width="30px" src="./img/icons/sass.png">   <img alt="JS icon" width="30px" src="./img/icons/js.svg">   <img alt="BEM icon" width="30px" src="./img/icons/bem.svg">   <img alt="Figma icon" width="30px" src="./img/icons/figma.svg"> <img alt="React icon" width="30px" src="./img/icons/react-1-logo-svgrepo-com.svg">
 
 ### My Projects
  Project title            |   Deploy link
