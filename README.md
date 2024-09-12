@@ -43,3 +43,5 @@ Coffee-House              |   [Coffee-House](https://rolling-scopes-school.githu
 Hangman                   |   [Hangman](https://rolling-scopes-school.github.io/dee2021-JSFE2023Q4/Hangman/)
 Counter                   |   [Counter](https://dzlek.github.io/counter/)
 
+### Codewars
+[![codewars](https://www.codewars.com/users/rsschool_c8a8e36cd21834c4/badges/small)](https://www.codewars.com/users/rsschool_c8a8e36cd21834c4)
