@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - __Telegram:__ [Dee](https://t.me/dzlek)
 
 ### Languages and Tools:
-<img alt="HTML5 icon" width="30px" src="./img/icons/html.svg">   <img alt="CSS3 icon" width="30px" src="./img/icons/css.svg">   <img alt="SASS icon" width="30px" src="./img/icons/sass.png">   <img alt="JS icon" width="30px" src="./img/icons/js.svg">   <img alt="BEM icon" width="30px" src="./img/icons/bem.svg">   <img alt="Figma icon" width="30px" src="./img/icons/figma.svg"> <img alt="React icon" width="30px" src="./img/icons/react-1-logo-svgrepo-com.svg">
+<img alt="HTML5 icon" width="30px" src="./img/icons/html.svg">   <img alt="CSS3 icon" width="30px" src="./img/icons/css.svg">   <img alt="SASS icon" width="30px" src="./img/icons/sass.png">   <img alt="JS icon" width="30px" src="./img/icons/js.svg">   <img alt="BEM icon" width="30px" src="./img/icons/bem.svg">   <img alt="Figma icon" width="30px" src="./img/icons/figma.svg"> <img alt="React icon" width="30px" src="./img/icons/react-1-logo-svgrepo-com.svg"> <img alt="Storybook icon" width="30px" src="./img/icons/storybook.svg"> <img alt="NextJs icon" height="30px" src="./img/icons/nextJs.svg"> <img alt="Radix icon" height="30px" src="./img/icons/radix.svg">
 
 ### My Projects
  Project title            |   Deploy link
