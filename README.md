@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ### My Projects
  Project title            |   Deploy link
 --------------------------|:-----------------------:
+Cristmas-Shop             |   [Cristmas-Shop-2024](https://rolling-scopes-school.github.io/dzlek-JSFE2024Q4/christmas-shop/)
 The React Quiz            |   [The React Quiz](https://dzlek.github.io/The-React-Quiz/)
 Travel-List(React)        |   [Travel-List](https://dzlek.github.io/travel-list/)
 Eat-n-split(React)        |   [Eat-n-split](https://dzlek.github.io/eat-n-split/)
