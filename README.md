@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### My Projects
  Project title            |   Deploy link           |   GitHub link
 --------------------------|:------------------------|:-----------------------:
-Inctagram             |   [Inctagram(nextJs)](https://excubator.xyz/)  |   [Inctagram](https://github.com/Incubator-internship/frontend)
+Inctagram(nextJs)         |   [Inctagram](https://excubator.xyz/)  |   [Inctagram](https://github.com/Incubator-internship/frontend)
 Cristmas-Shop             |   [Cristmas-Shop-2024](https://rolling-scopes-school.github.io/dzlek-JSFE2024Q4/christmas-shop/)  | [Cristmass-Shop](https://github.com/dzlek/christmass-shop)
 The React Quiz            |   [The React Quiz](https://dzlek.github.io/The-React-Quiz/)  |   [The React Quiz](https://github.com/dzlek/The-React-Quiz)
 Travel-List(React)        |   [Travel-List](https://dzlek.github.io/travel-list/)  |   [Travel-List](https://github.com/dzlek/travel-list)
