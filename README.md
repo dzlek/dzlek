@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 - __Phone:__ +375 ** 68* ** **
 - __E-mail:__ [68******@gmail.com](686eight@gmail.com)
-- __LinkedIn:__ [Dee](www.linkedin.com/)
+- __LinkedIn:__ [Dee](www.linkedin.com/in/дмитрий-корзун-0806b2131)
 - __Discord:__ [Dee](https://discordapp.com/users/1170446901552885810)
 - __Telegram:__ [Dee](https://t.me/dzlek)
 
