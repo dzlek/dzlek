@@ -45,7 +45,7 @@ Image-gallery             | [Image-gallery](https://dzlek.github.io/image-galler
 Nonogram                  | [Nonogram](https://rolling-scopes-school.github.io/dee2021-JSFE2023Q4/nonograms/)  |   
 Shelter-pet               | [Shelter-pet](https://dzlek.github.io/shelter-dom/)  | [Shelter-pet](https://github.com/dzlek/shelter-dom/tree/shelter-dom)
 Coffee-House              | [Coffee-House](https://rolling-scopes-school.github.io/dee2021-JSFE2023Q4/coffee-house/)  |   
-Hangman                   | [Hangman](https://rolling-scopes-school.github.io/dee2021-JSFE2023Q4/Hangman/)  |   
+Hangman                   | [Hangman](https://dzlek.github.io/hangman/)  |    [Hangman](https://github.com/rolling-scopes-school/dzlek-JSFE2024Q4/tree/hangman)
 Counter                   | [Counter](https://dzlek.github.io/counter/)  | [Counter](https://github.com/dzlek/counter)
 
 
