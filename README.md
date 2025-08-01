@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ### My Projects
  Project title            | Deploy link                           | GitHub link
 --------------------------|:--------------------------------------|:-----------------------:
+Youtube-redesign          | [Youtube-redesign](https://dzlek.github.io/yt-redesign/)   | [Youtube-redesign](https://github.com/dzlek/yt-redesign)
 Inctagram(nextJs)         | [Inctagram](https://excubator.xyz/)   | [Inctagram](https://github.com/Incubator-internship/frontend)
 Cristmas-Shop             | [Cristmas-Shop-2024](https://rolling-scopes-school.github.io/dzlek-JSFE2024Q4/christmas-shop/)  | [Cristmass-Shop](https://github.com/dzlek/christmass-shop)
 The React Quiz            | [The React Quiz](https://dzlek.github.io/The-React-Quiz/)  | [The React Quiz](https://github.com/dzlek/The-React-Quiz)
